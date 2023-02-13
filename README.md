@@ -5,9 +5,9 @@ Practice at Baekjoon Online Judge for the coding test.
 
 ### 배열과 리스트
 
-- [001] 숫자의 합 구하기
+- [001] 숫자의 합 구하기 11720
 
-- [002] 평균 구하기
+- [002] 평균 구하기 1546
 
 ### 구간 합
 
