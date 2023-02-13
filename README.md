@@ -39,7 +39,7 @@ Practice at Baekjoon Online Judge for the coding test.
 
 ### 깊이 우선 탐색
 - [023][[11724]](https://boj.kr/11724) 연결 요소의 개수
-- [024] 신기한 소수 찾기
+- [024][[2023]](https://boj.kr/2023) 신기한 소수
 - [025][[13023]](https://boj.kr/13023) ABCDE
 
 ### 너비 우선 탐색
