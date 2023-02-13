@@ -11,7 +11,7 @@ Practice at Baekjoon Online Judge for the coding test.
 
 ### 구간 합
 
-- [003] 구간 합 구하기 1
+- [003] 구간 합 구하기 1 11659
 
 - [004] 구간 합 구하기 2
 
