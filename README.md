@@ -9,11 +9,12 @@ Practice at Baekjoon Online Judge for the coding test.
 
 - [002] [<img src="https://d2gd6pc034wcta.cloudfront.net/tier/5.svg" width=10> 1546] 평균 구하기
 
+
 ### 구간 합
 
-- [003] 구간 합 구하기 1 11659
+- [003][BOJ:11659] 구간 합 구하기 1
 
-- [004] 구간 합 구하기 2
+- [004][BOJ:11660] 구간 합 구하기 2
 
 - [005] 나머지 합 구하기
 
