@@ -4,28 +4,42 @@ Practice at Baekjoon Online Judge for the coding test.
 ## 문제 목록
 
 ### 배열과 리스트
-- [001][[11720]](https://boj.kr/11720) 숫자의 합
-- [002][[1546]](https://boj.kr/1546) 평균
+- [001] <img src="https://d2gd6pc034wcta.cloudfront.net/tier/1.svg" width=10>
+  [11720](https://boj.kr/11720) 숫자의 합
+- [002] <img src="https://d2gd6pc034wcta.cloudfront.net/tier/5.svg" width=10>
+  [1546](https://boj.kr/1546) 평균
 
 ### 구간 합
-- [003][[11659]](https://boj.kr/11659) 구간 합 구하기 4
-- [004][[11660]](https://boj.kr/11660) 구간 합 구하기 5
-- [005][[10986]](https://boj.kr/10986) 나머지 합
+- [003] <img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width=10>
+  [11659](https://boj.kr/11659) 구간 합 구하기 4
+- [004] <img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width=10>
+  [11660](https://boj.kr/11660) 구간 합 구하기 5
+- [005] <img src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg" width=10>
+  [10986](https://boj.kr/10986) 나머지 합
 
 ### 투 포인터
-- [006][[2018]](https://boj.kr/2018) 수들의 합 5
-- [007][[1940]](https://boj.kr/1940) 주몽
-- [008][[1253]](https://boj.kr/1253) 좋다
+- [006] <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width=10>
+  [2018](https://boj.kr/2018) 수들의 합 5
+- [007] <img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" width=10>
+  [1940](https://boj.kr/1940) 주몽
+- [008] <img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" width=10>
+  [1253](https://boj.kr/1253) 좋다
 
 ### 슬라이딩 윈도우
-- [009][[12891]](https://boj.kr/12891) DNA 비밀번호
-- [010][[11003]](https://boj.kr/11003) 최솟값 찾기
+- [009] <img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" width=10>
+  [12891](https://boj.kr/12891) DNA 비밀번호
+- [010] <img src="https://d2gd6pc034wcta.cloudfront.net/tier/16.svg" width=10>
+  [11003](https://boj.kr/11003) 최솟값 찾기
 
 ### 스택과 큐
-- [011][[1874]](https://boj.kr/1874) 스택 수열
-- [012][[17298]](https://boj.kr/17298) 오큰수
-- [013][[2164]](https://boj.kr/2164) 카드2
-- [014][[11286]](https://boj.kr/11286) 절댓값 힙
+- [011] <img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" width=10>
+  [1874](https://boj.kr/1874) 스택 수열
+- [012] <img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" width=10>
+  [17298](https://boj.kr/17298) 오큰수
+- [013] <img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" width=10>
+  [2164](https://boj.kr/2164) 카드2
+- [014] <img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width=10>
+  [11286](https://boj.kr/11286) 절댓값 힙
 
 ### 정렬
 - [015][[2750]](https://boj.kr/2750) 수 정렬하기
