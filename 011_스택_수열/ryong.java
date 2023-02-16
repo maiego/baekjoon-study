@@ -15,18 +15,17 @@ class 스택_수열 {
       arr[i] = sc.nextInt();
 
     Deque<Integer> stk = new ArrayDeque<>();
-    boolean fail = false;
     int idx = 1;
     for (int i = 0; i < n; ++i) {
       while (idx <= arr[i]) {
         sb.append("+\n");
-        stk.add(idx);
+        stk.push(idx);
         ++idx;
       }
 
-      while (!stk.isEmpty() && stk.peekLast() == arr[i]) {
+      while (!stk.isEmpty() && stk.peek() == arr[i]) {
         sb.append("-\n");
-        stk.pollLast();
+        stk.pop();
       }
     }
 
