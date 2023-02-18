@@ -52,7 +52,8 @@ Practice at Baekjoon Online Judge for the coding test.
     [11399](https://boj.kr/11399) ATM
 - [019] <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width=10>
     [11004](https://boj.kr/11004) K번째 수
-- [020] 수 정렬하기 2
+- [020] <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width=10>
+    [2751](https://boj.kr/2751) 수 정렬하기 2
 - [021] <img src="https://d2gd6pc034wcta.cloudfront.net/tier/16.svg" width=10>
     [1517](https://boj.kr/1517) 버블 소트
 - [022] <img src="https://d2gd6pc034wcta.cloudfront.net/tier/5.svg" width=10>
