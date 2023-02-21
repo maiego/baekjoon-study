@@ -81,7 +81,6 @@ Practice at Baekjoon Online Judge for the coding test.
 - [030] <img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width=10>[2343](https://boj.kr/2343) 기타 레슨
 - [031] <img src="https://d2gd6pc034wcta.cloudfront.net/tier/14.svg" width=10>[1300](https://boj.kr/1300) K번째 수
 
-
 ### 그리디 알고리즘
 - [032] <img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" width=10>
     [11047](https://boj.kr/11047) 동전 0
@@ -98,7 +97,6 @@ Practice at Baekjoon Online Judge for the coding test.
 - [038] <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width=10>[1456](https://boj.kr/1456) 거의 소수
 - [039] <img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width=10>[1747](https://boj.kr/1747) 소수&팰린드롬
 - [040] <img src="https://d2gd6pc034wcta.cloudfront.net/tier/15.svg" width=10>[1016](https://boj.kr/1016) 제곱 ㄴㄴ 수
-
 
 ### 오일러 피
 - [041] <img src="https://d2gd6pc034wcta.cloudfront.net/tier/15.svg" width=10>[11689](https://boj.kr/11689) GCD(n, k) = 1
@@ -189,12 +187,10 @@ Practice at Baekjoon Online Judge for the coding test.
 - [082] <img src="https://d2gd6pc034wcta.cloudfront.net/tier/14.svg" width=10>[1256](https://boj.kr/1256) 사전
 - [083] <img src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg" width=10>[1947](https://boj.kr/1947) 선물 전달
 
-
 ### 동적 계획법
 - [084] <img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width=10>
     [1463](https://boj.kr/1463) 1로 만들기
 - [085] <img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width=10>[14501](https://boj.kr/14501) 퇴사
-
 - [086] <img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width=10>
     [2193](https://boj.kr/2193) 이친수
 - [087] <img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width=10>
@@ -209,10 +205,8 @@ Practice at Baekjoon Online Judge for the coding test.
 - [095] <img src="https://d2gd6pc034wcta.cloudfront.net/tier/15.svg" width=10>[2098](https://boj.kr/2098) 외판원 순회
 - [096] <img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" width=10>[14002](https://boj.kr/14002) 가장 긴 증가하는 부분 수열 4
 
-
 ### 기하
 - [097] <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width=10>[11758](https://boj.kr/11758) CCW
 - [098] <img src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg" width=10>[17386](https://boj.kr/17386) 선분 교차 1
 - [099] <img src="https://d2gd6pc034wcta.cloudfront.net/tier/16.svg" width=10>[2162](https://boj.kr/2162) 선분 그룹
 - [100] <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width=10>[2166](https://boj.kr/2166) 다각형의 면적
-
