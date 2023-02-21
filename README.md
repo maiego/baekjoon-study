@@ -69,7 +69,7 @@ Practice at Baekjoon Online Judge for the coding test.
 
 ### 너비 우선 탐색
 - [026] <img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" width=10>
-    [1260](https://boj.kr/1260) DFS와 BFS 프로그램
+    [1260](https://boj.kr/1260) DFS와 BFS
 - [027] <img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width=10>
     [2178](https://boj.kr/2178) 미로 탐색
 - [028] <img src="https://d2gd6pc034wcta.cloudfront.net/tier/14.svg" width=10>
