@@ -172,8 +172,8 @@ Practice at Baekjoon Online Judge for the coding test.
 ### 최소 신장 트리
 - [064] <img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" width=10>
     [1197](https://boj.kr/1197) 최소 스패닝 트리
-- [065] <img src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg" width=10>
-    [2146](https://boj.kr/2146) 다리 만들기
+- [065] <img src="https://d2gd6pc034wcta.cloudfront.net/tier/15.svg" width=10>
+    [17472](https://boj.kr/17472) 다리 만들기 2
 - [066] <img src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg" width=10>
     [1414](https://boj.kr/1414) 불우이웃돕기
 
